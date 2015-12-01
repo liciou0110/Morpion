@@ -1,0 +1,5 @@
+Le joueur ROND [ 2 , 1 ]
+Le joueur CROIX [ 2 , 2 ]
+Le joueur ROND [ 1 , 1 ]
+Le joueur CROIX [ 1 , 2 ]
+Le joueur : ROND a gagné.
